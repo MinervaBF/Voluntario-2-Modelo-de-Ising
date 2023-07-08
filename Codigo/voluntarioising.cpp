@@ -69,7 +69,7 @@ icorrelacion=4;
 
 // Comienzo el bucle que hará evolucionar el sistema.
 
-for(k=1; k<=(10000*N*N); k++) // Dejamos evolucionar el sistema 10^6 pMC
+for(k=1; k<=(10000*N*N); k++) // Dejamos evolucionar el sistema 10^4 pMC
 {
 //Elegimos un punto al azar de la matriz. Para ello generamos dos números al azar dentro
 //de las dimensiones de la matriz.
