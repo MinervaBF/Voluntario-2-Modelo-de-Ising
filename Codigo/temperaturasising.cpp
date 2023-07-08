@@ -171,6 +171,7 @@ printf("Proceso finalizado.");
 fclose(f1);
 fclose(f2);
 fclose(f3);
+fclose(f4);
 
 return 0;
 
